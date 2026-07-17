@@ -34,15 +34,9 @@ I use this GitHub profile as a place to organize learning notes, small experimen
 
 More about me: [fisherden.com](https://fisherden.com)
 
-## GitHub
+## GitHub Activity
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moven-51e1&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moven-51e1&layout=compact&hide_border=true&theme=default)
-
-</div>
+I am using GitHub to keep track of learning materials, coursework-related notes, small experiments, and future data or research-oriented projects.
 
 ## Current Direction
 
